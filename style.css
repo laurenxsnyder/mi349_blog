@@ -27,3 +27,8 @@ p{
 .blog-post {
     border-bottom: 1px dotted #ccc;
 }
+
+#contact-form {
+    margin: 40px;
+    padding: 40px;
+}
