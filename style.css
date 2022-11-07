@@ -31,17 +31,21 @@ p{
 #contact-form {
     margin: 40px;
     line-height: 2em;
-}
-#navbar {
-    background-color:darkgray;
+
+nav {
+    background-color: #3a24f0;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    position: sticky;
+    top: 0px;
 }
 
-#navbar a {
-    float: left;
-    display: block;
-    color: #fff;
-    text-align: center;
-    padding: 14px;
-    position: sticky;
-    top: 0;
+nav a {
+    color:#fff;
+    margin: 0px 10px;
+}
+
+nav a:hover {
+    text-decoration: underline;
 }
