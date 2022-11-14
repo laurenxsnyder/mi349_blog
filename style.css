@@ -70,6 +70,8 @@ article {
         background: pink;
         text-align: center;
     }
-    
+    section {
+        display:contents;
+    }
 }
 
