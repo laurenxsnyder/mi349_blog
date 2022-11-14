@@ -68,7 +68,6 @@ article {
 @media (max-width: 400px) {
     body {
         background: pink;
-        text-align: center;
     }
     section {
         display:contents;
